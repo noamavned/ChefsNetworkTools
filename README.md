@@ -30,7 +30,8 @@
 2. **Create and activate a virtual environment**:
    ```sh
    python -m venv env
-   source env/bin/activate  # On Windows use `.\env\Scripts\activate`
+   source env/bin/activate  # On Window CMD use `.\env\Scripts\activate`
+   I recommend using Powershell so the commend will be `.\env\Scripts\Activate.ps1`
 
 3. **Install dependencies**:
    ```sh

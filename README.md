@@ -24,8 +24,8 @@
 
 1. **Clone the repository**:
    ```sh
-   git clone https://github.com/yourusername/network-tools.git
-   cd network-tools
+   git clone https://github.com/noamavned/ChefsNetworkTools.git
+   cd ChefsNetworkTools
 
 2. **Create and activate a virtual environment**:
    ```sh

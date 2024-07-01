@@ -31,7 +31,7 @@
    ```sh
    python -m venv env
    source env/bin/activate  # On Window CMD use `.\env\Scripts\activate`
-   I recommend using Powershell so the commend will be `.\env\Scripts\Activate.ps1`
+   I recommend using Powershell so the command will be `.\env\Scripts\Activate.ps1`
 
 3. **Install dependencies**:
    ```sh
